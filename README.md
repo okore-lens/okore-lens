@@ -1,4 +1,4 @@
-![](https://github.com/okore-lens/okore-lens/blob/main/header.png)
+![](https://github.com/okore-lens/okore-lens/blob/main/banner.png)
 <h1>👋 Hi, I’m @okore-lens</h1>
 
 - 👀 I’m interested in react javascript
