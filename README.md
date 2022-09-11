@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me okorelens27@gmail.com
 
-[![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=radical)](https://github.com/okore-lens/github-readme-stats)
+[![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/okore-lens/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
