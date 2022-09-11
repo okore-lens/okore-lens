@@ -5,10 +5,10 @@
 </P>
 
 
-<!-- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
 
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats) 
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) 
