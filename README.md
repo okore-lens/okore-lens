@@ -4,10 +4,11 @@
 📫 How to reach me okorelens27@gmail.com
 </P>
 
+[![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h1 align="center" > My Github Stats </h1>
 <div>
-[![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
+
 </div>
 
 
