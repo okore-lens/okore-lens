@@ -1,3 +1,4 @@
+![](https://github.com/user/banner.png)
 <h1>👋 Hi, I’m @okore-lens</h1>
 
 - 👀 I’m interested in react javascript
