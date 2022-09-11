@@ -7,9 +7,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <div><h1 align="center" > My Github Stats </h1>
 </div>
-<span align="center">
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
-</span>
 
 <div><h1 align="center" > My Github Stats </h1>
 </div>
