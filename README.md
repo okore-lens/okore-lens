@@ -3,11 +3,13 @@
 <p> I am a 3rd year student pursuing Bachelor of Science in Software Engineering at Multimedia University of Kenya. I am interested 👀 in javascript moreso its React framework. Currently I am learning Node 🌱 and looking to colloborate on 💞️ Javascript Projects. <br/>
 📫 How to reach me okorelens27@gmail.com
 </P>
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
+
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens&theme=tokyonight)](https://git.io/streak-stats)
 
