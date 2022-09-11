@@ -15,7 +15,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens&theme=tokyonight)](https://git.io/streak-stats)
 <div><h1 align="center" >My Top Languages 💞️</h1>
 </div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
+</div>
+
 <h1 align="center"> What I'm listenig To</h1>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uqw76z7roygbpken4gmgcvqefq)
 
