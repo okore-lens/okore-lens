@@ -1,14 +1,19 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uqw76z7roygbpken4gmgcvqefq)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 - 👋 Hi, I’m @Infiinite-lens
 - 👀 I’m interested in react javascript
 - 🌱 I’m currently learning solidity
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me okorelens27@gmail.com
 
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uqw76z7roygbpken4gmgcvqefq)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
