@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Infiinite-lens</h1>
+<h1>👋 Hi, I’m @okore-lens</h1>
 
 - 👀 I’m interested in react javascript
 - 🌱 I’m currently learning node
