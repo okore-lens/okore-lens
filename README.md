@@ -5,6 +5,7 @@
 - 📫 How to reach me okorelens27@gmail.com
 
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens)](https://github.com/okore-lens/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +15,7 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens)](https://git.io/streak-stats)
+
 
 <!---
 okore-lens/okore-lens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
