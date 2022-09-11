@@ -10,8 +10,9 @@
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
 </span>
 
+<div>My Github Streak
+</div>
 
-My Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens&theme=tokyonight)](https://git.io/streak-stats)
 <h1 align="center"> My Top Languages 💞️</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
