@@ -1,4 +1,5 @@
 [![MasterHead](https://www.instagram.com/p/CYvuImwKz-r/)](https://github.com/okore-lens)
+<img align="right" alt="Coding" width="400" src="https://www.instagram.com/p/CYvuImwKz-r/">
 - 👋 Hi, I’m @Infiinite-lens
 - 👀 I’m interested in react javascript
 - 🌱 I’m currently learning solidity
