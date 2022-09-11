@@ -4,26 +4,14 @@
 📫 How to reach me okorelens27@gmail.com
 </P>
 
-<div>Hi 👋, I’m Okore</div>
+My Github Stats
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<h1 align="center" > My Github Stats </h1>
-<div>
-
-</div>
-
-
-<div><h1 align="center" > My Github Stats </h1>
-</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens&theme=tokyonight)](https://git.io/streak-stats)
-<div><h1 align="center" >My Top Languages 💞️</h1>
-</div>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
-</div>
 
-<h1 align="center"> What I'm listenig To</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uqw76z7roygbpken4gmgcvqefq)
 
 
