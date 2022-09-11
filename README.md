@@ -1,10 +1,10 @@
-
-<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/cvBBO4PzWPg">
 - 👋 Hi, I’m @Infiinite-lens
 - 👀 I’m interested in react javascript
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me okorelens27@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/okore-lens/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
