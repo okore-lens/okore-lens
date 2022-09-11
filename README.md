@@ -15,6 +15,7 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okore-lens&repo=github-readme-stats)](https://github.com/okore-lens/github-readme-stats)
 
 
 <!---
