@@ -1,5 +1,5 @@
 ![](https://github.com/okore-lens/okore-lens/blob/main/banner.png)
-<h1>👋 Hi, I’m @okore-lens</h1>
+<h1>👋 Hi, I’m Okore</h1>
 
 - 👀 I’m interested in react javascript
 - 🌱 I’m currently learning node
