@@ -5,8 +5,12 @@
 </P>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+<h1 align="center" > My Github Stats </h1>
+<span>
 [![Lens' GitHub stats](https://github-readme-stats.vercel.app/api?username=okore-lens&show_icons=true&theme=tokyonight)](https://github.com/okore-lens/github-readme-stats)
+</span>
+
+
 <h1 align="center"> My Github Streak </h1>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens&theme=tokyonight)](https://git.io/streak-stats)
 <h1 align="center"> My Top Languages 💞️</h1>
@@ -28,3 +32,4 @@
 okore-lens/okore-lens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
