@@ -8,7 +8,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=okore-lens)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okore-lens&layout=compact)](https://github.com/okore-lens/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/okore-lens/github-readme-stats)**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner)](https://github.com/okore-lens/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
