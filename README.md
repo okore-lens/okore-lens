@@ -17,6 +17,29 @@
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{2c088d26-e362-4ba6-9b09-c3725014f45d }}
+          GH_TOKEN: ${{ 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 }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+<!--END_SECTION:waka-->
+
+<!--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 -->
+
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uqw76z7roygbpken4gmgcvqefq)
