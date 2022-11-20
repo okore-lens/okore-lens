@@ -1,6 +1,6 @@
 ![](https://github.com/okore-lens/okore-lens/blob/main/banner.png)
 <h1>Hi 👋, I’m Okore...</h1>
-<p>...a 3rd year student pursuing Bachelor of Science in Software Engineering at Multimedia University of Kenya. I am interested 👀 in javascript moreso its React framework. Currently I am learning Node 🌱 and looking to colloborate on 💞️ Javascript Projects. <br/>
+<p>...a developer by heart and a bug finder by choice. I am interested 👀 in javascript moreso its React framework. Currently I am learning Node and Solidity🌱 and looking to colloborate on 💞️ Javascript Projects. <br/>
 📫 How to reach me okorelens27@gmail.com
 </P>
 
