@@ -1,7 +1,6 @@
 ![](https://github.com/okore-lens/okore-lens/blob/main/banner.png)
 <h1>Hi 👋, I’m Okore...</h1>
-<p>...a developer by heart and a bug finder by choice. I am interested 👀 in javascript moreso its React framework. Currently I am learning Node and Solidity🌱 and looking to colloborate on 💞️ Javascript Projects. <br/>
-📫 How to reach me okorelens27@gmail.com
+<p>...a developer by heart and a bug finder 👀 by choice..
 </P>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
