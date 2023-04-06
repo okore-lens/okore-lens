@@ -1,6 +1,6 @@
 ![](https://github.com/okore-lens/okore-lens/blob/main/banner.png)
 <h1>Hi 👋, I’m Okore...</h1>
-<p>...a developer by heart and a bug finder 👀 by choice..
+<p>...a developer by heart and a bug finder 👀 by choice ....codeee..
 </P>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
